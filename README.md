@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sai-charannn
-- 👀 I’m interested in artificial intelligence , data science and machine learning.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in  business analytics/data analytics
 - 💞️ I’m looking to collaborate on instagram
 - 📫 How to reach me insta ID @saicharan_m
 
